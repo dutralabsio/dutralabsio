@@ -150,30 +150,17 @@ I'm continuously learning and experimenting with topics such as:
 ---
 
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=1800"
-  />
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=dutralabsio&theme=transparent&hide_border=true"
-  />
+  https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dutralabsio&theme=github_dark
 </p>
 
+## 💻 Most Used Languages
 
----
-
-# 📈 Top Languages
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutralabsio&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
+<p align="center">
+  github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dutralabsio&theme=github_dark" />
+</p>
 
 ---
 
