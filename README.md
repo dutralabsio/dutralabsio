@@ -149,21 +149,6 @@ I'm continuously learning and experimenting with topics such as:
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dutralabsio&theme=github_dark
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dutralabsio&theme=github_dark" />
-</p>
-
----
-
 # 🌎 Connect With Me
 
 <p align="left">
