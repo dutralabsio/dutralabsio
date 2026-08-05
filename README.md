@@ -149,15 +149,21 @@ I'm continuously learning and experimenting with topics such as:
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"/>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=1800"
+  />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dutralabsio&theme=transparent&hide_border=true"/>
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=dutralabsio&theme=transparent&hide_border=true"
+  />
+</p>
 
-</div>
 
 ---
 
