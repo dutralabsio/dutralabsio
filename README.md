@@ -1,6 +1,6 @@
 # Hi, I'm Billy Dutra 👋
 
-**Quality Engineer | AI Enthusiast | Digital Solutions Builder**
+### Quality Engineer | AI Enthusiast | Digital Solutions Builder
 
 Building quality software through Automation, Generative AI and Modern Web Technologies.
 
@@ -8,11 +8,14 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 
 ## 🚀 Tech Stack
 
-<p align="left">
-12
-?i=html,css,js,git,github,typescript,vscode,react,nodejs" />
-13
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?-the-badge&logo=html5&logoColor=white
+![CSS3](https://img.shields.io/badge72B6?style=for-the-badge&logo=css3&logoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E-badge&logo=javascript&logoColor=black
+![TypeScript](https://img.shields.io/badge/TypeScriptfor-the-badge&logo=typescript&logoColor=white
+![Git](https://img.sho/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/717?style=for-the-badge&logo=github&logoColor=white
+![Playwright](https://img.shields.io/badge/Playwright-or-the-badge&logo=playwright&logoColor=white
+![Selenium](https://img.shields.io/badge/Selenium-43B02Ahe-badge&logo=selenium&logoColor=white
 
 ---
 
@@ -30,20 +33,52 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 
 ## 💼 About Me
 
-Technology professional with 15+ years of experience in Software Quality, Business Validation, API Testing and Agile Delivery.
+Technology professional with over 15 years of experience in Software Quality Assurance, Business Validation, API Testing and Agile Delivery.
 
-Currently exploring Quality Engineering, Test Automation, Generative AI and Modern Software Development.
+Focused on Quality Engineering, Test Automation, Artificial Intelligence and Modern Digital Solutions.
 
----
-
-## 🤝 Connect
-
-- LinkedIn: https://linkedin.com/in/dutrawilldr
-- GitHub: https://github.com/dutralabsio
-- Portfolio: https://portfolioqapro.github.io
+Passionate about technology, innovation, continuous learning and helping people achieve meaningful results through software.
 
 ---
 
-### Dutra Labs
+## 🧠 Main Skills
 
-Quality Engineering • Automation • GenAI • Digital Solutions
+- Quality Assurance
+- Quality Engineering
+- BDD
+- Functional Testing
+- API Testing
+- Playwright
+- Selenium
+- Test Strategy
+- Agile Delivery
+- Generative AI
+- Prompt Engineering
+- Web Development
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Playwright
+- AI Agents
+- Agentic AI
+- MCP
+- RAG
+- Modern Software Architecture
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/dutrawilldbr/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-dutralabsio-181717the-badge&logo=github&logoColor=white](https://github.com/dutralabsio)
+
+---
+
+# Dutra Labs
+
+### Quality Engineering • Automation • Generative AI • Digital Solutions
+
+> Building reliable software, exploring AI and creating digital solutions that generate value.
