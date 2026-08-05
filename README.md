@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Billy Dutra 👋
 
-<!--
-**dutralabsio/dutralabsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality Engineer | AI Enthusiast | Digital Solutions Builder
 
-Here are some ideas to get you started:
+Building quality software through Automation, Generative AI and Modern Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+<p align="left">
+  illicons.dev/icons?i=html,css,js,git,github,typescript,vscode" />
+</p>
+
+---
+
+## Current Focus
+
+- Quality Engineering
+- Test Automation
+- Playwright
+- API Testing
+- Generative AI
+- AI Agents
+- Web Development
+
+---
+
+## GitHub Stats
+
+<p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&theme=github_dark"
+  />
+</p>
+
+<p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutralabsio&layout=compact&theme=github_dark"
+  />
+</p>
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/dutrawilldr
+- GitHub: https://github.com/dutralabsio
+
