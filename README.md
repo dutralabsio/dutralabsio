@@ -1,84 +1,213 @@
-# Hi, I'm Billy Dutra 👋
+<div align="center">
 
-### Quality Engineer | AI Enthusiast | Digital Solutions Builder
+# Billy Dutra
 
-Building quality software through Automation, Generative AI and Modern Web Technologies.
+### Quality Engineer • AI Enthusiast • Automation Engineer • Digital Solutions Builder
 
----
+Building reliable software, intelligent automation and modern digital solutions.
 
-## 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?-the-badge&logo=html5&logoColor=white
-![CSS3](https://img.shields.io/badge72B6?style=for-the-badge&logo=css3&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E-badge&logo=javascript&logoColor=black
-![TypeScript](https://img.shields.io/badge/TypeScriptfor-the-badge&logo=typescript&logoColor=white
-![Git](https://img.sho/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/717?style=for-the-badge&logo=github&logoColor=white
-![Playwright](https://img.shields.io/badge/Playwright-or-the-badge&logo=playwright&logoColor=white
-![Selenium](https://img.shields.io/badge/Selenium-43B02Ahe-badge&logo=selenium&logoColor=white
-
----
-
-## 🎯 Current Focus
-
-- Quality Engineering
-- Test Automation
-- Playwright
-- API Testing
-- Generative AI
-- AI Agents
-- Web Development
+<p>
+  <a href="https://github.com/dutralabsio">
+    <img src="https://img.shields.io/badge/GitHub-DutraLabs-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/dutrawilldbr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Billy_Dutra-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Brazil-009C3B?style=for-the-badge&logo=brazil&logoColor=white" />
+</p>
 
 ---
 
-## 💼 About Me
+*"Quality is engineered. Innovation is built."*
 
-Technology professional with over 15 years of experience in Software Quality Assurance, Business Validation, API Testing and Agile Delivery.
+</div>
 
-Focused on Quality Engineering, Test Automation, Artificial Intelligence and Modern Digital Solutions.
+# 👋 About Me
 
-Passionate about technology, innovation, continuous learning and helping people achieve meaningful results through software.
+I'm a **Quality Engineer** with **15+ years of experience** delivering software quality through engineering practices, automation and continuous improvement.
+
+My passion is combining **Quality Engineering**, **Artificial Intelligence**, **Automation** and **Modern Web Technologies** to create scalable digital solutions that generate real business value.
+
+Today my focus goes beyond testing.
+
+I enjoy designing workflows, building intelligent automations, exploring AI-powered development and continuously learning new technologies that improve software delivery.
 
 ---
 
-## 🧠 Main Skills
+# 🚀 Current Focus
+
+- 🤖 Generative AI
+- 🧠 AI Agents
+- 🔗 Model Context Protocol (MCP)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ✨ Prompt Engineering
+- ⚙️ Test Automation
+- 🌐 Modern Web Development
+- 🚀 Digital Products
+- 📈 Continuous Learning
+
+---
+
+# 💻 Tech Stack
+
+## Quality Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 - Quality Assurance
 - Quality Engineering
-- BDD
 - Functional Testing
 - API Testing
+- Test Strategy
+- BDD
+- Agile Delivery
+
+---
+
+## Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts" />
+</p>
+
 - Playwright
 - Selenium
-- Test Strategy
-- Agile Delivery
-- Generative AI
-- Prompt Engineering
-- Web Development
+- Cucumber
+- TypeScript
 
 ---
 
-## 🌱 Currently Learning
+## Development
 
-- Advanced Playwright
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+---
+
+## Artificial Intelligence
+
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
 - AI Agents
-- Agentic AI
 - MCP
 - RAG
-- Modern Software Architecture
 
 ---
 
-## 🤝 Connect With Me
+# ⭐ Main Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/dutrawilldbr/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-dutralabsio-181717the-badge&logo=github&logoColor=white](https://github.com/dutralabsio)
+| Quality | Automation | AI | Development |
+|----------|------------|----|-------------|
+| Quality Engineering | Playwright | Generative AI | HTML |
+| Quality Assurance | Selenium | AI Agents | CSS |
+| API Testing | Cucumber | Prompt Engineering | JavaScript |
+| Functional Testing | TypeScript | MCP | React |
+| BDD | Automation Strategy | RAG | Git & GitHub |
 
 ---
 
-# Dutra Labs
+# 🔥 Featured Areas
 
-### Quality Engineering • Automation • Generative AI • Digital Solutions
+### 🧪 Quality Engineering
 
-> Building reliable software, exploring AI and creating digital solutions that generate value.
+Building quality into the software development lifecycle through strategy, automation and continuous improvement.
+
+### 🤖 Artificial Intelligence
+
+Exploring AI to improve engineering workflows, productivity and digital experiences.
+
+### ⚙️ Automation
+
+Designing reliable automation solutions for web applications, APIs and development processes.
+
+### 🌐 Digital Solutions
+
+Creating modern websites, web applications and digital products with a strong engineering mindset.
+
+---
+
+# 📚 Learning Journey
+
+Technology evolves every day.
+
+I'm continuously learning and experimenting with topics such as:
+
+- Agentic AI
+- AI Engineering
+- Prompt Engineering
+- Modern JavaScript
+- React Ecosystem
+- Software Architecture
+- Quality Engineering
+- Cloud Development
+- Developer Productivity
+- Automation Frameworks
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dutralabsio&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Top Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutralabsio&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/dutralabsio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dutrawilldbr/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🧭 What You'll Find Here
+
+- Quality Engineering projects
+- Automation experiments
+- AI-powered solutions
+- Web development projects
+- Learning repositories
+- Technical studies
+- Digital product ideas
+- Open-source explorations
+
+---
+
+<div align="center">
+
+## Dutra Labs
+
+### Building Technology • Engineering Quality • Exploring AI
+
+*"Curiosity drives learning. Engineering builds trust. Quality delivers value."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
