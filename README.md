@@ -9,7 +9,9 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 ## 🚀 Tech Stack
 
 <p align="left">
-  html,css,js,typescript,git,github,vscode,react,nodejs" />
+12
+https://skillicons.dev/icons?i=html,css,js,typescript,git,github,vscode,react,nodejs
+13
 </p>
 
 ---
