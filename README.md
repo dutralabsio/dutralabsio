@@ -9,7 +9,7 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 ## Tech Stack
 
 <p align="left">
-  illicons.dev/icons?i=html,css,js,git,github,typescript,vscode" />
+  ?i=html,css,js,git,github,typescript,vscode,react,nodejs" />
 </p>
 
 ---
@@ -29,17 +29,11 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 ## GitHub Stats
 
 <p>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&theme=github_dark"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dutralabsio&show_icons=true&theme=github_dark" />
 </p>
 
 <p>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutralabsio&layout=compact&theme=github_dark"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutralabsio&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -48,4 +42,3 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 
 - LinkedIn: https://linkedin.com/in/dutrawilldr
 - GitHub: https://github.com/dutralabsio
-
