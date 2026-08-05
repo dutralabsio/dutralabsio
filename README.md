@@ -10,7 +10,7 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 
 <p align="left">
 12
-https://skillicons.dev/icons?i=html,css,js,typescript,git,github,vscode,react,nodejs
+?i=html,css,js,git,github,typescript,vscode,react,nodejs" />
 13
 </p>
 
