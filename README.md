@@ -1,6 +1,6 @@
 # Hi, I'm Billy Dutra 👋
 
-Quality Engineer | AI Enthusiast | Digital Solutions Builder
+**Quality Engineer | AI Enthusiast | Digital Solutions Builder**
 
 Building quality software through Automation, Generative AI and Modern Web Technologies.
 
@@ -9,7 +9,11 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,git,github,vscode,react,nodejs"
+  html,css,js,typescript,git,github,vscode,react,nodejs" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 - Quality Engineering
@@ -22,65 +26,19 @@ Building quality software through Automation, Generative AI and Modern Web Techn
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="180em" src="https://githubapi?username=dutralabsio&show_icons=true&theme=github_dark&hide_border=true
-</p>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.?username=dutralabsio&layout=compact&theme=github_dark&hide_border=true
-</p>
-
----
-
 ## 💼 About Me
 
-Technology professional with over 15 years of experience in Software Quality Assurance, Business Validation, Test Strategy, API Testing and Agile Delivery.
+Technology professional with 15+ years of experience in Software Quality, Business Validation, API Testing and Agile Delivery.
 
-Currently focused on Quality Engineering, Test Automation, Generative AI, AI Agents and Modern Web Development.
-
----
-
-## 🛠️ Main Skills
-
-- Quality Assurance
-- BDD
-- Functional Testing
-- API Testing
-- Playwright
-- Selenium
-- Cucumber
-- TypeScript
-- Generative AI
-- Prompt Engineering
-- LLMs
-- Web Development
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Playwright
-- AI Agents
-- MCP
-- RAG
-- Agentic AI
-- Modern Web Architectures
+Currently exploring Quality Engineering, Test Automation, Generative AI and Modern Software Development.
 
 ---
 
 ## 🤝 Connect
 
-<p align="left">
-.com/in/dutrawilldr">
-.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dutralabsio">
-<img src="https://img.shields.io/badge/GitHub-181for-the-badge&logo=github&logoColor=white
-</a>
-</p>
+- LinkedIn: https://linkedin.com/in/dutrawilldr
+- GitHub: https://github.com/dutralabsio
+- Portfolio: https://portfolioqapro.github.io
 
 ---
 
