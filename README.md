@@ -186,6 +186,6 @@ I'm continuously learning and experimenting with topics such as:
 
 *"Curiosity drives learning. Engineering builds trust. Quality delivers value."*
 
-⭐ Thanks for visiting my profile!
+🤍 Thanks for visiting my profile!
 
 </div>
