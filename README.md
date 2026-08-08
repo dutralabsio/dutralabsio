@@ -1,6 +1,6 @@
 <div align="center">
 
-# Billy Dutra
+# William Dutra
 
 ### Quality Engineer • AI Enthusiast • Automation Engineer • Digital Solutions Builder
 
@@ -10,7 +10,7 @@ Building reliable software, intelligent automation and modern digital solutions.
   <a href="https://github.com/dutralabsio">
     <img src="https://img.shields.io/badge/GitHub-DutraLabs-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/dutrawilldbr/">
+  <a href="https://www.linkedin.com/in/awtechpro/">
     <img src="https://img.shields.io/badge/LinkedIn-Billy_Dutra-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/Brazil-009C3B?style=for-the-badge&logo=brazil&logoColor=white" />
