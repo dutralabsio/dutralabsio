@@ -1,6 +1,6 @@
 <div align="center">
 
-# William Dutra
+# William Abreu
 
 ### Quality Engineer • AI Enthusiast • Automation Engineer • Digital Solutions Builder
 
